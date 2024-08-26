@@ -1,4 +1,4 @@
-#este proyecto no sirvió. No me genera nuevas imágenes.
+#en Terminal agregar matplotlib y pandas
 
 import utils
 import read_csv
